@@ -1,0 +1,1 @@
+var json_lehcoseh_1 = {"type":"FeatureCollection","name":"lehcoseh_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","egiufhm":"¡Aquí estem!"},"geometry":{"type":"Point","coordinates":[1.251095399005443,41.28670007973671]}}]}
