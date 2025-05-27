@@ -138,3 +138,22 @@
       background-color: #6c6c6c;
       border-color: #6c6c6c;
     }
+    #btnTop {
+  display: none; /* Ocultarlo por defecto */
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+  background-color: #8B0000;
+  color: white;
+  border: none;
+  padding: 12px 18px;
+  border-radius: 50%;
+  font-size: 24px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#btnTop:hover {
+  background-color: #600000;
+}
